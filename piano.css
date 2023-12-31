@@ -1,0 +1,55 @@
+
+body{
+    background-color: mediumturquoise; 
+}
+.btn{
+    width: 150px;
+    height: 140px;
+    
+    border: 1px solide black;
+    cursor: pointer;
+}
+div{
+    text-align: center;
+}
+#btn1{
+    background-color: aqua;
+}
+#btn2{
+   background-color: blue; 
+}
+#btn3{
+   background-color: burlywood; 
+}
+#btn4{
+  background-color: chartreuse;  
+}
+#btn5{
+  background-color: darkgoldenrod;  
+}
+#btn6{
+   background-color: deeppink; 
+}
+#btn7{
+   background-color: fuchsia; 
+}
+#btn8{
+    background-color: indigo;
+}
+#btn9{
+    background-color: lightslategray;
+}
+.p1{
+    text-align: center;
+    background-color: darkorchid;
+    
+}
+.p2{
+    text-align: center;
+    background-color: tomato;
+}
+a{
+    text-align: center;
+    background-color: dimgray;
+    width: 50%;
+}
